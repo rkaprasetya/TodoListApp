@@ -1,9 +1,10 @@
-Todo list app
-Design pattern : MVVM
-Language : Kotlin
-libraries used :
+- Todo list app
+- Design pattern : MVVM
+- Language : Kotlin
+- libraries used :
  - Room
  - Flow
  - Coroutines
  - Navigation Component
  - Channel
+- link to tutorial : https://www.youtube.com/watch?v=Udk6iaR-RXA&t=1s
