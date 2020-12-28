@@ -1,1 +1,9 @@
-Watch the course here: https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E
+Todo list app
+Design pattern : MVVM
+Language : Kotlin
+libraries used :
+ - Room
+ - Flow
+ - Coroutines
+ - Navigation Component
+ - Channel
